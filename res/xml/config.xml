@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <host>192.168.31.167</host>
+    <port>5222</port>
+    <serviceName>zhuos-macbook-pro.local</serviceName>
+
+</config>
